@@ -1,4 +1,4 @@
 xiaohuichan.github.io
 =====================
 
-Git repo of xiaohuichan
+The very first git repository ,for demo use only
